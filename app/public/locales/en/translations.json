@@ -1,0 +1,115 @@
+{
+    "onboarding": {
+        "navigation": {
+            "login": "Login",
+            "register": "Register"
+        },
+        "login": {
+            "title": "Log in to your account",
+            "button": "Login",
+            "account": "Don't have an account?",
+            "link": "Register here"
+        },
+        "register": {
+            "title": "Create your account",
+            "button": "Register",
+            "account": "Already have an account?",
+            "link": "Login here"
+        }
+    },
+    "navigation": {
+        "users": "Users",
+        "houses": "Houses",
+        "agency": "Agency",
+        "agencies": "Agencies",
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout"
+    },
+    "house": {
+        "for-sale": "For Sale",
+        "for-rent": "For Rent"
+    },
+    "houses": {
+        "title": "Houses",
+        "overview": {
+            "title": "Houses",
+            "create": "Add house"
+        },
+        "create": {
+            "title": "Add house"
+        },
+        "edit": {
+            "title": "Edit house"
+        },
+        "fields": {
+            "town": "Town",
+            "street": "Street",
+            "state": "State",
+            "type": "Type",
+            "surfaceArea": "Surface Area",
+            "constructionYear": "Construction Year",
+            "price": "Price",
+            "image": "Image",
+            "streetAndNumber": "Street and number",
+            "agency": "Agency"
+        }
+    },
+    "agencies": {
+        "title": "Agencies",
+        "detail": {
+            "title": "Agency details",
+            "edit": "Edit agency",
+            "agent": "Add Agent"
+        },
+        "edit": {
+            "title": "Edit agency"
+        },
+        "fields": {
+            "name": "Name",
+            "address": "Address",
+            "phonenumber": "Phone number",
+            "email": "Email"
+        },
+        "addAgent": {
+            "title": "Add agent"
+        },
+        "create": {
+            "title": "Add agency"
+        },
+        "overview": {
+            "title": "Agencies",
+            "create": "Add agency"
+        }
+    },
+    "users": {
+        "title": "Users",
+        "overview": {
+            "title": "Users",
+            "create": "Create user"
+        },
+        "create": {
+            "title": "Create user"
+        },
+        "edit": {
+            "title": "Edit user"
+        }
+    },
+    "buttons": {
+        "create": "Create",
+        "edit": "Edit",
+        "save": "Save",
+        "generatePassword": "Generate password"
+    },
+    "fields": {
+        "id": "Id",
+        "email": "Email",
+        "avatar": "Avatar",
+        "name": "Name",
+        "surname": "Surname",
+        "password": "Password",
+        "user": "User",
+        "role": "Role",
+        "address": "Address"
+    }
+}
